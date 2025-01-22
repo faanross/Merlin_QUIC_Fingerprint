@@ -1,0 +1,18 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	quic
+#open	2024-12-10-17-36-51
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	client_initial_dcid	client_scid	server_scid	server_name	client_protocol	history
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	string
+1723256192.242131	CggqFA4x22raGmqnha	192.168.2.79	51851	23.205.255.114	443	1	a3a3fa0a653e80da	(empty)	0fce46eded80a02e	-	-	IIiishhhHHH
+1723256194.000487	Cs0NxJ3RMlbjlEZrLf	192.168.2.79	51946	23.205.255.99	443	1	d5ffd62fb82ae83f	(empty)	0692bc46f181a02e	-	-	IIiishhhHHHh
+1723270917.705664	CsJWT329hTwbFWDzml	192.168.2.77	54127	52.123.251.186	443	1	54187ee2d00fd06b	(empty)	4f347bfbba44d5e3824046e0a682	-	-	IIisIihhhHHH
+1723271517.737604	CJbHyU137oyi0yF745	192.168.2.77	61686	13.107.42.16	443	1	78690442a5749df0	(empty)	-	-	-	II
+1723299718.641569	CLA9mE2jUuXOIcqKHb	192.168.2.77	61359	13.107.42.16	443	1	f095e488e6450912	(empty)	-	-	-	II
+1723301148.465782	CIo5Dd4sro51E6xroh	192.168.2.82	62725	23.205.255.154	443	1	cb1f644ec08acf34	(empty)	00c6cebed140a02e	-	-	IIiishhhHH
+1723301497.183702	CgvOjk1C7bZtjzcbwi	192.168.2.77	50062	23.205.255.143	443	1	14162d51285ef967	(empty)	0f30886fa541a02e	-	-	IIiishhhHH
+1723307192.477870	CXFo1f4JBnHC6xyFw2	192.168.2.79	62420	13.107.42.16	443	1	b69a37e4a1e2f15e	(empty)	-	-	-	IIIIII
+1723311199.655221	C5nw5KAbz2Ezdqwyd	192.168.2.87	55754	13.107.42.16	443	1	d1c211204c9fc4cf	(empty)	-	-	-	IIIIII
+#close	2024-12-10-17-38-05
